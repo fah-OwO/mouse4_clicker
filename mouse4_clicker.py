@@ -1,10 +1,4 @@
-import tkinter as tk
-import numpy as np
-from tkinter import filedialog
-from PIL import ImageGrab,ImageTk,Image
-import cv2
 import time
-from mss import mss
 import threading
 import win32api,win32con
 
